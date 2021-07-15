@@ -1,12 +1,12 @@
 import java.math.*;
 import java.util.*;
 /**
- * Minesweeper Game
+ * 15-16 Puzzle
  *
  * Paarth Kulkarni
  * @version (a version number or a date)
  */
-public class RAAAAAA
+public class Puzzle1516
 {
     static void randomize(int back[])
     {
